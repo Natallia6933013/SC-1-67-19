@@ -1,0 +1,18 @@
+h1{
+    font-size: 25px;
+    font-style: normal;
+    font-weight: bold;
+}
+h3{
+    font-family: 'Satisfy', cursive;
+    font-weight: inherit;
+    font-style: italic;
+    text-decoration: underline;
+    text-indent: 5mm;
+}
+p{
+    font-family: 'Satisfy', cursive;
+    font-weight: normal;
+    font-style: italic;
+    text-indent: 5mm;
+    }
