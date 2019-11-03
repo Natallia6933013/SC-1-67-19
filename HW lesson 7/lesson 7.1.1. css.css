@@ -1,0 +1,18 @@
+.cards li {
+    background-image: url("cards.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 200px;
+    width: 150px;
+}
+.cards .card1 {
+    background-position: -140px -197px;
+}
+.cards .card2 {
+    background-position: -426px -595px;
+    margin-left: -50px;
+}
+.cards .card3 {
+    background-position: -285px -1389px;
+    margin-left: -50px;
+}
